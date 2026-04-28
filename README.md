@@ -1,4 +1,4 @@
-# Electronics and 3DCG hobbyist.
+# Electronics and 3DCG VR/XR Developer
 
 Portfolio: https://juntendo11.github.io/JuntendoPortfolio/
 
