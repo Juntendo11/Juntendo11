@@ -1,6 +1,6 @@
 # Electronics and 3DCG VR/XR Developer
 
-Portfolio: https://juntendo11.github.io/JuntendoPortfolio/
+Portfolio: [https://juntendo11.github.io/JuntendoPortfolio/](https://juntendo11.github.io/JuntendoWebPortfolio/)
 
 YouTube: https://www.youtube.com/channel/UC73LkQJ47rRI07iMOzu7-5g
 
